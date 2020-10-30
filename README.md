@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Currently working on Android development 🔧                                                  
+- 🔭 Currently working on Android development 🔧                                ![..](https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?raw=true)                        
 - 🤖 Experience in Robotics ; Arduino
 - 😈 semicolon addicted
 - 👯 I’m looking to collaborate on Android developers
@@ -11,5 +11,5 @@ Here are some ideas to get you started:
                        Instagram - [Instagram](instagram.com/iamsudhamshu)
 - ⚡ Fact- Internet runs and ruins the world!                  
 
-![..](https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?raw=true)
+
 
