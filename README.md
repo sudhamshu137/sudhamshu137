@@ -1,8 +1,8 @@
 ### Here's what I am working on 👋
 
-Here are some ideas to get you started:
+                                                                              ![..](https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?raw=true)
 
-- 🔭 Currently working on Android development 🔧                                ![..](https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?raw=true)                        
+- 🔭 Currently working on Android development 🔧                                                        
 - 🤖 Experience in Robotics ; Arduino
 - 😈 semicolon addicted
 - 👯 I’m looking to collaborate on Android developers
