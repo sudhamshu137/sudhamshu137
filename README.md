@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Currently working on Android development 🔧
+- 🔭 Currently working on Android development 🔧                                                    [.](https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif)
 - 🤖 Experience in Robotics ; Arduino
 - 😈 semicolon addicted
 - 👯 I’m looking to collaborate on Android developers
