@@ -11,5 +11,5 @@ Here are some ideas to get you started:
                        Instagram - [Instagram](instagram.com/iamsudhamshu)
 - ⚡ Fact- Internet runs and ruins the world!                  
 
-[..](https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif)
+[..](https://giphy.com/gifs/WodOtJNNNQEXRSSXp2/html5)
 
