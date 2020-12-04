@@ -12,7 +12,7 @@
 - ⚡ Fact- Internet runs and ruins the world!   
 
 ### 🏆 My Github Status
-![My Github Status](https://github-readme-stats.vercel.app/api?username=ArvindAROO&show_icons=true&theme=radical&line_height=33)
+![My Github Status](https://github-readme-stats.vercel.app/api?username=sudhamshu137&show_icons=true&theme=radical&line_height=33)
 
 
 
