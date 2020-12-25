@@ -7,8 +7,8 @@
 - 😈 semicolon addicted
 - 👯 Searching for a perfect collaboration for android development
 - 💬 Ask me about anything!
-- 📫 How to reach me:<br>  Mail- [Email](sudhamshubhats.02@gmail.com)<br>
-                       Instagram - [Instagram](instagram.com/iamsudhamshu)<br>
+- 📫 How to reach me:<br>  Mail- sudhamshubhats.02@gmail.com<br>
+                       Instagram - [Instagram](https://www.instagram.com/iamsudhamshu/)<br>
                        LinkedIn - [LinkedIn](https://www.linkedin.com/in/sudhamshu-bhat-8b45961b7/)
 - ⚡ Fact- Internet runs and ruins the world!   
 
