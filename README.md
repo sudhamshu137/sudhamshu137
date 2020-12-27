@@ -5,7 +5,7 @@
 - 🔭 Currently working on Android development 🔧                   
 - 🤖 Experience in Robotics ; Arduino
 - 😈 semicolon addicted
-- 🎳 Fields of Interest: Android | Robotics | Java | Python | C | Firebase
+- 🎳 My cup of tea: Android | Robotics | Java | Python | C | Firebase
 - 👯 Searching for a perfect collaboration for android development
 - 💬 Ask me about anything!
 - 📫 How to reach me:<br>  Mail- sudhamshubhats.02@gmail.com<br>
