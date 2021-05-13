@@ -20,4 +20,7 @@
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhamshu137&hide=html&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sudhamshu137/count.svg" />
+</p>
