@@ -1,6 +1,6 @@
 ### Here's what I am working on 👋
 
- <img align='right' src='https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?raw=true' width='320"'>                                                                          
+ <img align='right' src='https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?raw=true' width='320"'>    </br>                                                                      
 
 - 🧬 Machine Learning Enthusiast
 - 🔭 Android Developer (Frontend + Backend)                 
