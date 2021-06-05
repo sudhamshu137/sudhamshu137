@@ -1,12 +1,12 @@
 ### Here's what I am working on 👋
 
- <img align='right' src='https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?raw=true' width='320"'>                                                                          <br>
+ <img align='right' src='https://media.giphy.com/media/WodOtJNNNQEXRSSXp2/giphy.gif?raw=true' width='320"'>                                                                          
 
 - 🧬 Machine Learning Enthusiast
 - 🔭 Android Developer (Frontend + Backend)                 
 - 🤖 Experience in Robotics ; Arduino
 - 😈 semicolon addicted
-- 🎳 My cup of tea: Android | Robotics | Java | Python | C | Firebase | AWS | ML | Parse | Arduino | Github 
+- 🎳 My cup of tea: </br> Android | Robotics | Java | Python | C | Firebase | AWS | ML | Parse | Arduino | Github 
 - 👯 Searching for a perfect collaboration for android development
 - 💬 Ask me about anything!
 - 📫 How to reach me:<br>  Mail- sudhamshubhats.02@gmail.com<br>
