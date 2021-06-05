@@ -15,6 +15,17 @@
 
 <br><br>
 
+
+### 🛠️ Languages and Tools:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-100000?style=for-the-badge&logo=github&logoColor=white)
+
+<br><br>
+
 ### 🏆 My Github Stats
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=sudhamshu137&hide_border=true&show_icons=true&line_height=33&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)
 
