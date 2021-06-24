@@ -24,3 +24,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sudhamshu137/count.svg" />
 </p>
+
+[![Sudhamshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudhamshu137)](https://github.com/anuraghazra/github-readme-stats)
+
