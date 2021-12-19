@@ -6,7 +6,7 @@
 - 🔭 Android Developer (Frontend + Backend)                 
 - 🤖 Experience in Robotics ; Arduino
 - 😈 semicolon addicted
-- 🎳 My cup of tea: </br> Android | Robotics | Java | Python | C | Firebase | AWS | ML | Parse | Arduino | Github 
+- 🎳 My cup of tea: </br> Android | Robotics | Java | Python | C | Firebase | AWS | C++ | Parse | Arduino | Problem Solving and DSA
 - 👯 Searching for a perfect collaboration for android development
 - 💬 Ask me about anything!
 - 📫 How to reach me:<br>  Mail- sudhamshubhats.02@gmail.com<br>
